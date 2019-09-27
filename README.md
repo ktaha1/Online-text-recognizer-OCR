@@ -1,8 +1,14 @@
 # Online-text-recognizer-OCR
 Online text recognizer -based on Tesseract-OCR engine- allows users to easily convert scanned documents, screenshots and photos into editable and searchable text, such as DOC, TXT or PDF. 
 
-### main page
+### Main page
 ![alt text](https://github.com/ktaha1/Online-text-recognizer-OCR/blob/master/demo-main.png)
+
+### Result page: Displaying uploaded image
+![alt text](https://github.com/ktaha1/Online-text-recognizer-OCR/blob/master/demo-result1.png)
+
+### Result page: Displaying preprocessed image
+![alt text](https://github.com/ktaha1/Online-text-recognizer-OCR/blob/master/demo-result2.png)
 
 ## files tree
 * **index.php** : main page including the form for the input
