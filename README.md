@@ -1,6 +1,9 @@
 # Online-text-recognizer-OCR
 Online text recognizer -based on Tesseract-OCR engine- allows users to easily convert scanned documents, screenshots and photos into editable and searchable text, such as DOC, TXT or PDF. 
 
+### main page
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 ## files tree
 * **index.php** : main page including the form for the input
 
